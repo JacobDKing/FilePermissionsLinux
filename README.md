@@ -1,6 +1,6 @@
 # Linux Directory Access Administration
-Using Linux commands, we are able to change file/directory permissions for particular users. This lab is meant to demonstrate my personal ability and comfortability with some of these operations. <br />
-Note: This is being performed within a controlled lab environment with a network admin account "researcher2@f3a9c23ffbf9".
+Using Linux commands, we are able to quickly edit file/directory permissions for particular user-groups. This lab is meant to be a short demonstration of my personal ability and comfortability with these operations. <br />
+Note: This is being performed within an artificial network environment with a default admin account "researcher2@f3a9c23ffbf9".
 
 <br />
 
